@@ -3,7 +3,7 @@
   "current" : "grch38_version_1",
   "targets" : [
     {
-      "name" : "grch38",
+      "name" : "grch38_version_1",
       "url" : "http://marth-award.genetics.utah.edu:8089/grch38_version_1.tar.gz"
     }
   ]
