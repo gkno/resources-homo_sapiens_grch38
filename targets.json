@@ -4,7 +4,7 @@
   "targets" : [
     {
       "name" : "grch38",
-      "url" : "http://bioinformatics.bc.edu/marthlab/download/gkno-resources/human_grch38/grch38_version_1.tar.gz"
+      "url" : "http://marth-award.genetics.utah.edu:8089/grch38_version_1.tar.gz"
     }
   ]
 }
